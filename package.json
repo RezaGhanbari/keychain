@@ -1,0 +1,11 @@
+{
+  "name": "keychain",
+  "version": "1.0.0",
+  "description": "A simple password keychain application using Electron, Angular.js and Loki.js, a lightweight and in-memory database with a familiar syntax for MongoDB developers.",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Reza Ghanbari",
+  "license": "ISC"
+}

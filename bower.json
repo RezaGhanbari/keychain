@@ -1,0 +1,17 @@
+{
+  "name": "keychain",
+  "description": "A simple password keychain application using Electron, Angular.js and Loki.js, a lightweight and in-memory database with a familiar syntax for MongoDB developers.",
+  "main": "src/app.js",
+  "authors": [
+    "Reza Ghanbari"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
